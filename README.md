@@ -25,6 +25,7 @@
 
 <h3 align="left">💬 Want to get in touch?</h3>
 <p align="left">I'm French 🇫🇷, so my English might be a bit rough at times. However, if you have any questions, suggestions, or just want to chat, feel free to open an issue on this repository. I’d be happy to connect with you!</p>
+<p align="left">You can also reach out to me via email at <strong>MindLated@proton.me</strong>, though I check this email less frequently compared to GitHub.</p>
 
 <h3 align="left">🌟 Current Interests</h3>
 <p align="left">I'm currently interested in game development, reverse engineering, and other tech-related areas. I'm also learning HTML, CSS, JavaScript, and PHP.</p>
