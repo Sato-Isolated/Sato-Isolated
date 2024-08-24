@@ -29,6 +29,7 @@
 
 <h3 align="left">🌟 Current Interests</h3>
 <p align="left">I'm currently interested in game development, reverse engineering, and other tech-related areas. I'm also learning HTML, CSS, JavaScript, and PHP.</p>
+<p align="left">I enjoy creating save editors for various games. If you can't find one for a specific game, feel free to reach out to me—I'd be happy to try making one for you!</p>
 
 <h3 align="left">☕ Support</h3>
 <p align="left">If you'd like to support me, you can do so via Ko-fi. Every bit of support is greatly appreciated!</p>
