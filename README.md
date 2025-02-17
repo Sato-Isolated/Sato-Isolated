@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sato-Isolated&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sato-Isolated&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sato-Isolated&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -25,7 +25,7 @@
 
 <h3 align="left">📬 Get in Touch</h3>
 <p align="left">Hi there! I'm French 🇫🇷, so my English might not always be perfect. If you have any questions, suggestions, or just want to chat, feel free to open an issue on this repository or drop me an email. I'd love to hear from you!</p>
-<p align="left">📧 My primary email: <strong>MindLated@proton.me</strong></p>
+<p align="left">📧 My primary email: <strong>MindLated@proton.me</strong> (I don't go there very often)</p>
 
 ---
 
