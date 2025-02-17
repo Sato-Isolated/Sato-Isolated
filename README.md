@@ -35,7 +35,6 @@
   <li>Reverse engineering and technical exploration</li>
   <li>Web development (HTML, CSS, JavaScript, PHP)</li>
 </ul>
-<p>I also enjoy creating save editors for various games. If you can’t find one for a specific game, feel free to reach out—I’ll see what I can do!</p>
 
 ---
 
