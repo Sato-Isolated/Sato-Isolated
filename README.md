@@ -25,7 +25,7 @@
 
 <h3 align="left">📬 Get in Touch</h3>
 <p align="left">Hi there! I'm French 🇫🇷, so my English might not always be perfect. If you have any questions, suggestions, or just want to chat, feel free to open an issue on this repository or drop me an email. I'd love to hear from you!</p>
-<p align="left">📧 My primary email: <strong>MindLated@proton.me</strong> (I don't go there very often)</p>
+<p align="left">📧 My primary email: <strong>MindLated@proton.me</strong></p>
 
 ---
 
