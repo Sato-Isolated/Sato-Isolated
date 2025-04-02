@@ -50,7 +50,7 @@
 <ul align="left">
   <li><strong>Monero (XMR):</strong> 48JRJwsDuMQ7EboCSDSAEMKWfyVGWbfBcM5SaxCCMqiBeduwZDZQMw5KseCn2ciyQX6ckJyPH24HJNoJGVZH9EmATAoX6Jz</li>
   <li><strong>Litecoin (LTC):</strong> LVu6dmsaAfp9mi5s6BRFZApBrScQvhYF9s</li>
-  <li><strong>Bitcoin (BTC):</strong> bc1qps0wd0hhhkz6p924c76s6xc8xt5hn4ctnqtjk2</li>
+  <li><strong>Bitcoin (BTC):</strong> bc1qy760l35crz87q8fs02svkk0hcezj8xl83x8red</li>
 </ul>
 
 ---
