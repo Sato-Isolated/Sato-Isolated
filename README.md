@@ -33,7 +33,7 @@ Passionate developer from France 🇫🇷, currently learning and exploring C# a
 ### 🔍 Looking for Web Development Internship
 
 * 🌐 Seeking a 1-month web development internship in France
-* 💻 Focus on front-end development (HTML, CSS, JavaScript)
+* 💻 Focus on front-back-end development
 * 💬 French is my primary language (English skills are basic)
 * 📚 Eager to learn and gain practical experience in web development
 
