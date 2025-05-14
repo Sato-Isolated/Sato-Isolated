@@ -21,42 +21,47 @@ Passionate developer from France 🇫🇷, currently learning and exploring C# a
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🎯 Current Focus
 
-* 💻 Learning C# development
-* 🌐 Exploring web development (HTML, CSS, JavaScript, PHP)
+- 💻 Learning C# development
+- 🌐 Exploring web development (HTML, CSS, JavaScript, React, Nuxt)
 
 ### 🔍 Looking for Web Development Internship
 
-* 🌐 Seeking a 1-month web development internship in France
-* 💻 Focus on front-back-end development
-* 💬 French is my primary language (English skills are basic)
-* 📚 Eager to learn and gain practical experience in web development
+- 🌐 Seeking a 1-month web development internship in France
+- 💻 Focus on front-back-end development
+- 💬 French is my primary language (English skills are basic)
+- 📚 Eager to learn and gain practical experience in web development
 
 ## 📬 Contact
 
 Feel free to reach out for project discussions, collaborations, or internship opportunities!
 
-* 📧 Email: **MindLated@proton.me**
-* 💬 GitHub Issues: Don't hesitate to open an issue on this repository
+- 📧 Email: **MindLated@proton.me**
+- 💬 GitHub Issues: Don't hesitate to open an issue on this repository
 
 ## ☕ Support
 
 If you enjoy my work and want to support me, you can do so via:
 
 ### Ko-fi
+
 <a href='https://ko-fi.com/K3K611OMU5' target='_blank'>
   <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Ko-fi' />
 </a>
 
 ### Cryptocurrencies
-* **Monero (XMR)**: `48JRJwsDuMQ7EboCSDSAEMKWfyVGWbfBcM5SaxCCMqiBeduwZDZQMw5KseCn2ciyQX6ckJyPH24HJNoJGVZH9EmATAoX6Jz`
-* **Litecoin (LTC)**: `LVu6dmsaAfp9mi5s6BRFZApBrScQvhYF9s`
-* **Bitcoin (BTC)**: `bc1qy760l35crz87q8fs02svkk0hcezj8xl83x8red`
+
+- **Monero (XMR)**: `48JRJwsDuMQ7EboCSDSAEMKWfyVGWbfBcM5SaxCCMqiBeduwZDZQMw5KseCn2ciyQX6ckJyPH24HJNoJGVZH9EmATAoX6Jz`
+- **Litecoin (LTC)**: `LVu6dmsaAfp9mi5s6BRFZApBrScQvhYF9s`
+- **Bitcoin (BTC)**: `bc1qy760l35crz87q8fs02svkk0hcezj8xl83x8red`
 
 ---
 
@@ -64,4 +69,4 @@ If you enjoy my work and want to support me, you can do so via:
   <h3>Thanks for stopping by! 🌟</h3>
 </div>
 
---- 
+---
