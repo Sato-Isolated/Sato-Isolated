@@ -47,21 +47,12 @@ Feel free to reach out for project discussions, collaborations, or internship op
 - 📧 Email: **MindLated@proton.me**
 - 💬 GitHub Issues: Don't hesitate to open an issue on this repository
 
-## ☕ Support
+## 🎮 Interests
 
-If you enjoy my work and want to support me, you can do so via:
-
-### Ko-fi
-
-<a href='https://ko-fi.com/K3K611OMU5' target='_blank'>
-  <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Ko-fi' />
-</a>
-
-### Cryptocurrencies
-
-- **Monero (XMR)**: `48JRJwsDuMQ7EboCSDSAEMKWfyVGWbfBcM5SaxCCMqiBeduwZDZQMw5KseCn2ciyQX6ckJyPH24HJNoJGVZH9EmATAoX6Jz`
-- **Litecoin (LTC)**: `LVu6dmsaAfp9mi5s6BRFZApBrScQvhYF9s`
-- **Bitcoin (BTC)**: `bc1qy760l35crz87q8fs02svkk0hcezj8xl83x8red`
+- Video games (League of Legends, Dofus)
+- Web development & AI
+- Music
+- I would love to develop my own video game one day!
 
 ---
 
